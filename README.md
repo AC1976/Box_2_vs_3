@@ -21,4 +21,6 @@ pip install streamlit
 
 De app kan vervolgens gestart worden met 'streamlit run app.py'. 
 
-De app is ook online beschikbaar via Streamlit Communities.
+De app is ook online beschikbaar via Streamlit Community:
+
+https://box2vs3-yeogyf5ym9rtdr5egu8wib.streamlit.app
