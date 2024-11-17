@@ -18,6 +18,12 @@ De Box 2 en Vpb tarieven en schijven kunnen worden geconfigureerd naar wens, maa
 
 De modellen zijn beschikbaar gemaakt als een streamlit app. Streamlit lanceert een server op de lokale computer, waarna men met een browser naar de streamlit app op deze server navigeert. In de browser vult men dan de benodigde gegevens in, waarna de app op basis van de hierboven beschreven modellen het rekenwerk uitvoert. De app presenteert de uitkomsten als een aantal spreadsheets die als *.csv bestand kunnen worden gedownload en daarna geopend in een spreadsheetprogramma zoals Excel. De app maakt ook een aantal grafieken op de uitkomsten direct op het scherm te vergelijken.
 
+https://box2of3.streamlit.app
+
 ## Installeren
 
-tbc
+Zie de requirements file in de repo.
+
+```bash
+$ pip install -r requirements.txt
+```
